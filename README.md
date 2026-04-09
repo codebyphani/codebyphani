@@ -8,6 +8,7 @@ Over the past two years, I built the core EOR platform at wunderhire:
 - Frontend: Next.js, TypeScript, Tailwind CSS
 - Backend: NestJS, PostgreSQL, Prisma
 - Supporting services: FastAPI, Celery for notifications and async workflows
+
 The platform focuses on remote team management, HR operations, and finance workflows. It includes features such as time off, expenses, document handling, and role-based approvals across admins, auditors, and team members.
 
 Before that, I worked with startups across cloud platforms & ML for fire detection, IoT, & computer vision hardware for fish monitoring. I enjoy working at the intersection of engineering and product strategy, and thoughtful user experience.
